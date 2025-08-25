@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/myarnwas/Assignment-2-Python-Exercises/blob/main/Assignment_2_Python_Exercises.ipynb)
 # 📘 Python Basics Exercises
 
 This repository contains solutions to fundamental Python exercises covering:
